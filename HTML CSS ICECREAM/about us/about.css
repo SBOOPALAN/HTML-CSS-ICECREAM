@@ -1,0 +1,168 @@
+.div1{
+    width: 100%;
+    height: 120px;
+    background-color: rgb(138, 144, 11);
+
+}
+.logo{
+    border-radius: 50%;
+    height: 110px;
+    position: relative;
+    top: 4px;
+    left: 10px;
+}
+a{
+    margin-left: 70px;
+    position: relative;
+    bottom:50px;
+    text-decoration: none;
+    font-size: 33px;
+    color: rgb(85, 255, 0);
+    text-shadow: 2px 2px red;
+
+}
+a:hover{
+    color: rgb(255, 0, 0)72;
+    text-shadow: none;
+    text-decoration: underline white;
+    font-size: 40px;
+    
+}
+h1{
+    position: relative;
+    top: 100px;
+    font-family: monospace; 
+     font-weight: lighter;
+    margin-left: 550px;
+    font-size: 50px
+
+}
+
+.p1{
+    position: relative;
+    top: 100px;
+    font-size: 25px;
+    margin: 20px 10px 20px 50px;
+    font-family: cursive;
+    color: chocolate;
+}
+.p1:hover{
+    color: blue;
+
+}
+#f1{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    bottom: 200px;
+    left: 200px;
+
+}
+.div2{
+    width: 350px ;
+    height: 400px;
+    border: 3px solid black;
+   position: relative;
+   top: 150px;
+    left: 60px;
+}
+.v1{
+    font-family: monospace;
+    font-weight: lighter; 
+    position: relative;
+    left: 140px;
+    top: 170px;
+    color: maroon;
+}
+.p2{
+    position: relative;
+    top: 200px;
+    left: 30px;
+    font-size: 20px;
+    margin: 30px 30px 30px 30px ;
+    color: rgb(230, 0, 255);
+
+}
+.div3{
+    width: 350px ;
+    height: 400px;
+    border: 3px solid black;
+   position: relative;
+   bottom: 360px;
+    left:500px;
+}
+#f2{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    bottom: 700px;
+    left: 640px;
+
+}
+.p3{
+    position: relative;
+    top: 200px;
+    left: 20px;
+    font-size: 20px;
+    margin: 20px 20px 20px 20px ;
+    color: rgb(255, 0, 0);
+
+}
+.div4{
+    width: 350px ;
+    height: 400px;
+    border: 3px solid black;
+   position: relative;
+   bottom: 870px;
+    left:950px;
+}
+#f3{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    bottom: 1210px;
+    left: 1100px;
+
+}
+.p4{
+    position: relative;
+    top: 200px;
+    left: 20px;
+    font-size: 20px;
+    margin: 30px 20px 20px 20px ;
+    color: rgb(74, 15, 95);
+}
+
+ .color1{
+    width: 100%;
+    height: 500px;
+    background-color:rgb(168, 213, 198);
+    position: relative;
+    bottom: 33px;
+}
+.color2{
+
+    position: relative;
+    bottom: 150px;
+    
+}
+#a0{
+    color: rgb(0, 0, 0);
+    text-shadow: none;
+    border: 2px solid black;
+    border-radius: 40%;
+    background-color: rgb(246, 255, 0);
+     font-size: 80px;
+     text-decoration: none;
+}
+#a0:hover{
+    background-color: crimson;
+}
+
+.end{
+    position: relative;
+    bottom:1000px;
+    left: 100px;
+
+
+}
